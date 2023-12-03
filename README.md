@@ -179,20 +179,15 @@ Ensemble models improve generalization, lessen overfitting, and mitigate the sho
 
 ## RESULTS
  
-Fig9: Bar plot of the MSE values on the test data
 
 The presented bar plot showcases the Mean Squared Error (MSE) results for models built on the test data. Notably, the Random Forest model demonstrates the lowest MSE among all considered models, indicating superior predictive accuracy. This robust performance can be attributed to the model's unique strength in random subset feature selection, allowing it to extract optimal predictive insights from the dataset. The effectiveness of Random Forest in minimizing MSE underscores its capability to provide accurate predictions and highlights its suitability for the inherent complexities of our dataset.
-
-Below figure is the performance of the best model which is ensemble model. Ensemble model is built with the help of top models that performed very well. With the help of ensemble model, we are able to get the best metrics for predicting our salary.
+Ensemble model is built with the help of top models that performed very well. With the help of ensemble model, we are able to get the best metrics for predicting our salary.
  
-Fig10: Performance metrics of the best model
 
 ## RESOURCES:
 https://scikit-learn.org/stable/index.html
 https://scikit-learn.org/stable/modules/grid_search.html
 https://en.wikipedia.org/wiki/Lasso_(statistics)
 https://scikit-learn.org/stable/modules/ensemble.html
-GITHUB LINKS
-https://github.com/Vamc-44/Group_9_IDS_project
 
 
